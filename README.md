@@ -1,2 +1,2 @@
-# sprinkly
+# Sprinkly
 IoT Sprinkler Application
